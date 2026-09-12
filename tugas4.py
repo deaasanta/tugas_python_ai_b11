@@ -1,4 +1,4 @@
-# tugas 4 - Struktur Data Python
+# tugas 4 struktur data python
 # nama: Dea Santa Nainggolan
 # kelas: AI
 
